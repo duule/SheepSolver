@@ -144,4 +144,4 @@ solver = SheepSolver('map_data.json', 8)
 
 ## License
 
-- 本项目采用MIT许可证 - 详见 [LICENSE]("./LICENSE") 文件
+- 本项目采用MIT许可证 - 详见 [LICENSE](./LICENSE) 文件
